@@ -10462,7 +10462,7 @@
         "<link[^>]+semantic(?:\\.min)\\.css\""
       ],
       "implies": [
-        "jQuery"
+        "jQuery\\;confidence:60"
       ],
       "icon": "Semantic-ui.png",
       "script": "/semantic(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1",
